@@ -1,5 +1,11 @@
 # Eddie-Byrd
 UoMBootCamp
+
+# Eddie-Byrd
+UoMBootCamp
+
+## Automated ELK Stack Deployment
+
 The files in this repository were used to configure the network depicted below.
 
 ![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
@@ -8,6 +14,11 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - Enter the filebeat playbook file. 
 
+  ![TODO: Update the path with the name of your filebeat file](Images/filebeat_playbook.png)
+
+![TODO: Update the path with the name of your elk file](Images/install_elkfile.png)
+![TODO: Update the path with the name of your pentest file](Images/Pentest_ymlfile.png)
+
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
@@ -15,7 +26,6 @@ This document contains the following details:
   - Beats in Use
   - Machines Being Monitored
 - How to Use the Ansible Build
-
 
 ### Description of the Topology
 
